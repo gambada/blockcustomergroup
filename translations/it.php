@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_8dbb322b9122cdc5bc01eeda0f08d257'] = 'Blocco Gruppo Cliente';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_3c0b0ecfbc900a1961871d491054a53b'] = 'Aggiunge un blocco nella registrazione nel quale è possibile scegliere il gruppo di appartenenza.';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_e050b6ce4875528b43218af2a22b87ac'] = 'Email scritta/e in modo errato, modifiche non salvate!';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_5b982745977f9bd7a0befe7c70e90294'] = 'Configurazione impostata correttamente';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_ee4baab9a0c0fd9d315e78c00958fc56'] = 'Impostazioni di registrazione';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_74f0e8c9ab507892173eaa58b386c24a'] = 'Seleziona gruppo/i:';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_914f331c0794f5fb17dd9b833b1caeb3'] = 'Selezionare i gruppi visibili dai clienti al momento della registrazione';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_9c2f835967a69e87026ebe8019995534'] = 'Se non viene selezionato niente il blocco non appare';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_38084de9945a93f7917f1de5c41e401e'] = 'Gruppo di default:';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_41600f8da3978466cfded077d7c7c04a'] = 'Seleziona il gruppo che vuoi venga visto per primo';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_5e7a41c207d535817e4d06c9ebc47bc5'] = 'Quello visualizzato è il prescelto';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_02a93c475971c53fc83b8eb74940a14c'] = 'Sconto visibile:';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_d84da3f1453affb9851e6d0a4db8e39f'] = 'Scegli se il cliente può vedere lo sconto legato ad ogni gruppo';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_c0c9d7a1d17317759f9708b998f41f93'] = 'Seleziona tipo';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_eb8cc26902bc2dd4ef47e35a927fbb14'] = 'Scegli il tipo di input visualizzato nel form di registrazione';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_63225f19fccb18e7c709f1fa11bc738e'] = 'SELECT';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_f46d45b52139dc3fa782c53f701ada0d'] = 'RADIO';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_c9cc8cce247e49bae79f15173ce97354'] = 'Salva';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_c8896d70102b6711dc07718df1996885'] = 'Indirizzi di posta';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_0a7a38923f1930a2f7c9e2b3ff68a5ab'] = 'Invia a queste email:';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_13fe8c7b0053c7c54c9f807af3c98e63'] = 'Scrivi ogni mail che vuoi che riceva le informazioni sul nuovo cliente';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_5f8fc64cfc69f5ec9fbe48c2f9869710'] = 'Un indirizzo per riga separato dalla virgola( , ). Lasciato vuoto, verrà utilizzata la mail del negozio';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_21dd0db98c461576f8552fd2f2fa014f'] = 'Seleziona il tuo gruppo di appartenenza.';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_93cba07454f06a4a960172bbd6e2a435'] = 'Si';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_bafd7322c6e97d25b6299b5d6fe8920b'] = 'No';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_f51eb9472bec4a599dc18382c37a82aa'] = 'NUOVA REGISTRAZIONE';
+$_MODULE['<{blockcustomergroup}prestashop>blockcustomergroup_c38266740494aa4980d05c606fccac10'] = 'Gruppo cliente';

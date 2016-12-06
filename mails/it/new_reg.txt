@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+CIAO
+
+Informazioni account da {shop_name}
+
+Un nuovo cliente si è registrato nel tuo negozio.
+INFO
+	Nome:		{firstname}
+	Cognome:	{lastname}
+	E-mail:		{email}
+	Gruppo:		{customer_group}
+	
+[{shop_url}] 

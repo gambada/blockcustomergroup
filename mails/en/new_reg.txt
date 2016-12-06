@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+HELLO
+
+Account information from {shop_name}
+
+A new customer has registered on your shop
+INFO
+	First Name:	{firstname}
+	Last Name:	{lastname}
+	E-mail:		{email}
+	Group:		{customer_group}
+	
+[{shop_url}] 
