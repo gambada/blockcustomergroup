@@ -2,12 +2,12 @@
 Add a block in the registration form where the customer can select his group.
 The admin can choose which group the customer can select, from module configuration page. This module doesn't modify default database tables, just inform the merchant (with an e-mail) that a new customer has registered in his shop.
 
-##Requirements
+## Requirements
 Prestashop 1.6.x recommended
 
 ## Installation
 
-####Method 1
+#### Method 1
 1. compress the `blockcustomergroup` folder in zip or tarball format
 2. go in the admin form of your site
 3. select `modules`
@@ -16,7 +16,7 @@ Prestashop 1.6.x recommended
 6. select the compressed module
 7. upload and install it!
 
-####Method 2
+#### Method 2
 1. rename the folder in `blockcustomergroup`
 2. add it in the folder `your-site\prestashop\modules`
 3. go in the admin form of your site
@@ -25,7 +25,7 @@ Prestashop 1.6.x recommended
 6. install it!
 
 ## Guide
-####Module
+#### Module
 Once you added all groups in Prestashop: 
  1. go to the module `Configuration`
  2. select group(s)
@@ -33,7 +33,7 @@ Once you added all groups in Prestashop:
  4. choose if in the registration form can be seen the discount percentage
  5. select the type of visualization (select / radio)
 
-####Prestashop
+#### Prestashop
 
 If the module doesn't send the e-mail:
  1. Module folder `blockcustomergroup`
